@@ -1,0 +1,51 @@
+
+hr {
+    line-height: 2px;
+    color: teal;
+}
+
+h4 {
+    color: teal;
+}
+
+/* Div */
+
+.maindiv {
+    width: 75%;
+    margin: auto;
+}
+
+.contactdiv {
+    margin-top: 20px;
+}
+
+.aboutme {
+
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.tealfooter {
+  background-color:teal;
+  height: 5px;
+ clear: both;
+}
+
+.footer {
+  background-color: #666666;
+  height: 25px;
+  text-align: center;
+   clear: both;
+}
+
+
+/* IMAGES */
+.propic {
+    width: 50%;
+    max-width: 250px;
+    float: left;
+   margin: 20px;
+}
+.portpics {
+    margin: 20px;
+}
